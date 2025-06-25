@@ -3,7 +3,7 @@
 
 ## Introduktion
 
-Denna första vecka i UX / UI Grunder kommer vi att inleda med att kika på vad de grundläggande begreppen i kursen innebär. Vad är egentligen skillnaden på UX och UI, och varför är det viktigt att skilja dessa två åt? Vi kommer inledningsvis att beröra ämnen som användbarhet, användarvänlighet, deceptive patterns mm. innan vi kommer in på Design Thinking, ett koncept som sedan kommer vara den röda tråden genom hela kursen.  
+Hur skapar man digitala upplevelser som faktiskt fungerar för användaren? Den här veckan dyker vi in i grunderna för UX och UI – vad de betyder, hur de hänger ihop, och varför båda behövs. Vi introducerar Design Thinking-processen med fokus på att förstå människors behov, beteenden och drivkrafter. Genom empatiintervjuer och research lär vi oss se världen genom användarens ögon – för att kunna definiera rätt problem att lösa.
 
 ## Mål för veckan:
 1. Förstå skillnaderna mellan UX och UI
