@@ -15,7 +15,7 @@ Hur skapar man digitala upplevelser som faktiskt fungerar för användaren? Den 
 ## Resurser
 
 ### Presentationer
-* [Kursintro](https://docs.google.com/presentation/d/1yR0gF_wQ03Unxm7qIEIhL3yN-eeYEyRz/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Kursintro](https://docs.google.com/presentation/d/14BHukM0yvVMDr4Ask-h4pTMjDHfsCw4D/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Intro UX / UI](https://docs.google.com/presentation/d/1Ooyuz9l10qyDx1dp53bQCGWGxohqC4Uv/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Usability](https://docs.google.com/presentation/d/1EJlN5MLs7aieBguNitVSzZeH0agK1NRb/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Design Thinking - Empathize & Define](https://docs.google.com/presentation/d/13OArKxoMnn0qEjMgg313gP0M-gZyJG7R/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
@@ -32,4 +32,4 @@ Hur skapar man digitala upplevelser som faktiskt fungerar för användaren? Den 
 
 ### Övningar
 * [What's good design?](https://github.com/fu-ux-ui-fe24/exercise-whats-good-design/tree/main)
-* [Gruppexamination](https://github.com/fu-ux-ui-fe24/exam-team-design-thinking-process/tree/main)
+* [Gruppexamination]()
