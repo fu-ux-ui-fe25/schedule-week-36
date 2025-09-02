@@ -18,7 +18,7 @@ Hur skapar man digitala upplevelser som faktiskt fungerar för användaren? Den 
 * [Kursintro](https://docs.google.com/presentation/d/14BHukM0yvVMDr4Ask-h4pTMjDHfsCw4D/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Intro UX / UI](https://docs.google.com/presentation/d/1Ooyuz9l10qyDx1dp53bQCGWGxohqC4Uv/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Usability](https://docs.google.com/presentation/d/1EJlN5MLs7aieBguNitVSzZeH0agK1NRb/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [Design Thinking - Empathize & Define](https://docs.google.com/presentation/d/13OArKxoMnn0qEjMgg313gP0M-gZyJG7R/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Design Thinking - Empathize & Define](https://docs.google.com/presentation/d/16WJ3PfmE1Ox4Lil5rSmO6CRGi-pIgoaz/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Filmer
 * [Karl Gilis - Why you fail at digital marketing](https://www.youtube.com/watch?v=5smmkVq3osE)
