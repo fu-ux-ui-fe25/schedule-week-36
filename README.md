@@ -20,6 +20,14 @@ Hur skapar man digitala upplevelser som faktiskt fungerar för användaren? Den 
 * [Usability](https://docs.google.com/presentation/d/1EJlN5MLs7aieBguNitVSzZeH0agK1NRb/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Design Thinking - Empathize & Define](https://docs.google.com/presentation/d/16WJ3PfmE1Ox4Lil5rSmO6CRGi-pIgoaz/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
+### Inspelningar
+
+* 01 - [Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EdSAbCIhzHFDr32piX40DUcB7v0ygdiEaOLvwOwd2TWnbw?e=BmgaVj)
+* 02 - [UX/UI del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EeBMXE3WgnNAuAqJu6uxizQBA8Ky0XERYMnBmqCSry-WcA?e=XgpdlU)
+* 03 - [UX/UI del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EdynmjSAZSRJplSws5TbR6sB4ILAaMbyjTKjJEHvj387ow?e=fM0xkK)
+* 04 - [UX/UI del 3](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/ETIt7E6p8X9Lj1f7gUD3uHgB40JXASpQKZDEP1gcSFvSVw?e=ucEaGb)
+* 05 - [UX/UI del 4](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EYdfp_uJnRdKuY8GJM13FPQBt0E0TyfeS4rO1F7KbxCeRg?e=sdRR86)
+
 ### Filmer
 * [Karl Gilis - Why you fail at digital marketing](https://www.youtube.com/watch?v=5smmkVq3osE)
 
@@ -32,4 +40,4 @@ Hur skapar man digitala upplevelser som faktiskt fungerar för användaren? Den 
 
 ### Övningar
 * [What's good design?](https://github.com/fu-ux-ui-fe24/exercise-whats-good-design/tree/main)
-* [Gruppexamination]()
+* [Gruppexamination](https://github.com/fu-ux-ui-fe25/exam-group-design-thinking-process)
