@@ -27,6 +27,10 @@ Hur skapar man digitala upplevelser som faktiskt fungerar för användaren? Den 
 * 03 - [UX/UI del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EdynmjSAZSRJplSws5TbR6sB4ILAaMbyjTKjJEHvj387ow?e=fM0xkK)
 * 04 - [UX/UI del 3](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/ETIt7E6p8X9Lj1f7gUD3uHgB40JXASpQKZDEP1gcSFvSVw?e=ucEaGb)
 * 05 - [UX/UI del 4](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EYdfp_uJnRdKuY8GJM13FPQBt0E0TyfeS4rO1F7KbxCeRg?e=sdRR86)
+* 06 - [Design Thinking : Empathise del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EWxXm2nH5OlJjdGCTjyFLYYBpkA1Qg6isCJMyHqO2g58QQ?e=08hNFB)
+* 06 - [Design Thinking : Empathise del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/ERdi-y7nWRxEtzCIUBDXWA4By22VEkzuJ_ZLY4dqaHiBHQ?e=2Dr9Yd)
+* 06 - [Design Thinking : Define](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EQ79OHzS81VDrbEsRMXUU-IBO21rQxTeBOAnvydmkCLZfg?e=IVcHVw)
+* 06 - [Genomgång examination]()
 
 ### Filmer
 * [Karl Gilis - Why you fail at digital marketing](https://www.youtube.com/watch?v=5smmkVq3osE)
