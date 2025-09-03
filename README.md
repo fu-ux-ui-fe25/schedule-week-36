@@ -30,7 +30,7 @@ Hur skapar man digitala upplevelser som faktiskt fungerar för användaren? Den 
 * 06 - [Design Thinking : Empathise del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EWxXm2nH5OlJjdGCTjyFLYYBpkA1Qg6isCJMyHqO2g58QQ?e=08hNFB)
 * 06 - [Design Thinking : Empathise del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/ERdi-y7nWRxEtzCIUBDXWA4By22VEkzuJ_ZLY4dqaHiBHQ?e=2Dr9Yd)
 * 06 - [Design Thinking : Define](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EQ79OHzS81VDrbEsRMXUU-IBO21rQxTeBOAnvydmkCLZfg?e=IVcHVw)
-* 06 - [Genomgång examination]()
+* 06 - [Genomgång examination](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EfF8G2xPoRVGn6vJxmX5Ck4BWelFz0ASnYSMFGKxhfJcqw?e=xM7rH5)
 
 ### Filmer
 * [Karl Gilis - Why you fail at digital marketing](https://www.youtube.com/watch?v=5smmkVq3osE)
